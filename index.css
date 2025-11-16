@@ -1,0 +1,412 @@
+body{
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: rgb(63, 54, 54);
+    padding: 10px;
+}
+nav ul{
+    list-style: none;
+    margin: 5px;
+    padding: 10px;
+    display: flex;
+}
+nav ul li{
+    margin-right: 20px;
+}
+nav ul li a{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+nav ul li a:hover{
+    color: white;
+}
+.Order{
+    color: lightgreen;
+    font-size: 10px;
+    
+    text-decoration: lightgreen;
+    
+}
+.q{
+    height: 5px;
+    width: 50px;
+    background-color: white;
+    top: 25px;
+    position: absolute;
+    right: 15px;
+}
+.w{
+    height: 5px;
+    width: 50px;
+    background-color: white;
+    top: 35px;
+    position: absolute;
+    right: 15px;
+}
+.e{
+    height: 5px;
+    width: 50px;
+    background-color: white;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    
+    
+}
+h1{
+    right: 25px;
+    text-align: center;
+    color: black;
+}
+.lohith{
+    right: 25px;
+    text-align: center;
+    font-size: x-large;
+    
+}
+img{
+    width: 1200px;
+    height: 800px;
+    right: 10%;
+    position: absolute;
+}
+.aaa{
+    color: black;
+    position: absolute;
+    top: 22em;
+    right: 5px;
+    font-size: xx-small;
+    font-size: 50px;
+    text-align: center;
+    left: 40px;
+}
+.red{
+    height: 500px;
+    width: 28%;
+    box-shadow: 25px;
+    position: absolute;
+    top: 82em;
+    left: 80px;
+}
+.white{
+    height: 500px;
+    width: 28%;
+    box-shadow: 25px;
+    position: absolute;
+    top: 82em;
+    left: 570px;
+}
+.blue{
+    height: 500px;
+    width: 28%;
+    box-shadow: 25px;
+    position: relative;
+    top: 66em;
+    left: 1050px;
+    border-radius: 5%;
+}
+.m{
+    height: 300px;
+    width: 410px;
+    background-color: rgb(240, 223, 223);
+    position: absolute;
+    top: 111em;
+    left: 82px;
+    text-align: center;
+    text-decoration: black;
+}
+.n{
+    height: 300px;
+    width: 410px;
+    background-color: rgb(240, 223, 223);
+    position: absolute;
+    top: 111em;
+    left: 580px;
+    text-align: center;
+    text-decoration: black;
+}
+.k{
+    height: 300px;
+    width: 410px;
+    background-color: rgb(240, 223, 223);
+    position: absolute;
+    top: 111em;
+    left: 1060px;
+    text-align: center;
+    text-decoration: black;
+}
+.qq{
+    height: 50px;
+    width: 270px;
+    background-color: black;
+    top: 120em;
+    left: 10em;
+    position: absolute;
+    color: white;
+    text-align: center;
+}
+.ww{
+    height: 50px;
+    width: 270px;
+    background-color: black;
+    top: 120em;
+    left: 41em;
+    position: absolute;
+    color: white;
+    text-align: center;
+}
+.ee{
+    height: 50px;
+    width: 270px;
+    background-color: black;
+    top: 120em;
+    left: 71em;
+    position: absolute;
+    color: white;
+    text-align: center;
+}
+.rr{
+    height: 50px;
+    width: 270px;
+    background-color: white;
+    top: 125em;
+    left: 10em;
+    position: absolute;
+    color: black;
+    text-align: center;
+}
+.tt{
+    height: 50px;
+    width: 270px;
+    background-color: white;
+    top: 125em;
+    left: 41em;
+    position: absolute;
+    color: black;
+    text-align: center;
+}
+.yy{
+    height: 50px;
+    width: 270px;
+    background-color: white;
+    top: 125em;
+    left: 71em;
+    position: absolute;
+    color: black;
+    text-align: center;
+}
+.uu{
+    top: 65em;
+    text-align: center;
+    position: absolute;
+    font-size: xx-large;
+    left: 15em;
+    text-align: center;
+}
+.bike1{
+    height: 500px;
+    width: 28%;
+    background-color: black;
+    top: 135em;
+    left: 5em;
+    position: absolute;
+    color: white;
+    text-align: center;
+    border-radius: 2%;
+}
+.ii{
+    height: 300px;
+    width: 410px;
+    background-color: rgb(240, 223, 223);
+    position: absolute;
+    top: 165em;
+    left: 82px;
+    text-align: center;
+    text-decoration: black;
+}
+.oo{
+    height: 50px;
+    width: 270px;
+    background-color: black;
+    top: 175em;
+    left: 10em;
+    position: absolute;
+    color: white;
+    text-align: center;
+}
+.pp{
+    height: 50px;
+    width: 270px;
+    background-color: white;
+    top: 180em;
+    left: 10em;
+    position: absolute;
+    color: black;
+    text-align: center;
+}
+.bike2{
+    height: 500px;
+    width: 28%;
+    box-shadow: 25px;
+    top: 135em;
+    left: 36em;
+    border-radius: 2%;
+}
+.red{
+    height: 500px;
+    width: 28%;
+    box-shadow: 25px;
+    position: absolute;
+    top: 82em;
+    left: 80px;
+}
+.aa{
+    height: 300px;
+    width: 410px;
+    background-color: rgb(240, 223, 223);
+    position: absolute;
+    top: 165em;
+    left: 36em;
+    text-align: center;
+    text-decoration: black;
+}
+.ss{
+    height: 50px;
+    width: 270px;
+    background-color: white;
+    top: 180em;
+    left: 40em;
+    position: absolute;
+    color: black;
+    text-align: center;
+}
+.dd{
+    height: 50px;
+    width: 270px;
+    background-color: black;
+    top: 175em;
+    left: 40em;
+    position: absolute;
+    color: white;
+    text-align: center;
+}
+.bike3{
+    height: 500px;
+    width: 28%;
+    box-shadow: 25px;
+    position: absolute;
+    top: 135em;
+    left: 65em;
+}
+.ff{
+    height: 300px;
+    width: 410px;
+    background-color: rgb(240, 223, 223);
+    position: absolute;
+    top: 165em;
+    left: 65em;
+    text-align: center;
+    text-decoration: black;
+}
+.gg{
+    height: 50px;
+    width: 270px;
+    background-color: black;
+    top: 175em;
+    left: 70em;
+    position: absolute;
+    color: white;
+    text-align: center;
+}
+.hh{
+    height: 50px;
+    width: 270px;
+    background-color: white;
+    top: 180em;
+    left: 70em;
+    position: absolute;
+    color: black;
+    text-align: center;
+}
+.jj{
+    top: 93em;
+    position: absolute;
+    text-align: center;
+    font-size: xx-large;
+    left: 3em;
+}
+.kk{
+    top: 95em;
+    position: absolute;
+    text-align: center;
+    font-size: xx-large;
+    left: 4em;
+}
+.ll{
+    height: 500px;
+    width: 28%;
+    box-shadow: 25px;
+    position: absolute;
+    top: 200em;
+    left: 6em;
+    border-radius: 3%;
+}
+.zz{
+    height: 500px;
+    width: 28%;
+    box-shadow: 25px;
+    position: absolute;
+    top: 200em;
+    left: 35em;
+    border-radius: 3%;
+}
+.xx{
+    height: 500px;
+    width: 28%;
+    box-shadow: 25px;
+    position: absolute;
+    top: 200em;
+    left: 65em;
+    border-radius: 3%;
+}
+.cc{
+    top: 154em;
+    position: absolute;
+    font-size: x-large;
+    left: 6em;
+}
+.vv{
+    top: 154em;
+    position: absolute;
+    font-size: x-large;
+    left: 27em;
+}
+.bb{
+    top: 154em;
+    position: absolute;
+    font-size: x-large;
+    left: 47em;
+}
+.nn{
+    top: 120em;
+    position: absolute;
+    font-size: xx-large;
+    left: 17em;
+    color: rgb(74, 218, 218);
+}
+
+
+
+
+
+
+
+
+    
+
+
+
+
